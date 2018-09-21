@@ -1,11 +1,11 @@
 theme: Merriweather, 8
 
-![fit](ruby-elixir-conf.png)
+![fit](image/ruby-elixir-conf.png)
 
 ---
 
 ## Elixir.tw
-![inline](elixir_taiwan.png)
+![inline](image/elixir_taiwan.png)
 
 https://www.facebook.com/groups/elixir.tw/
 https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/
@@ -23,7 +23,7 @@ https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/
 ---
 
 ## Levarage Erlang
-![inline](beam.png)
+![inline](image/beam.png)
 
 ---
 
@@ -35,7 +35,7 @@ https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/
 ## Java, PHP, Python, JavaScript, Ruby
 ## with _multi core_ CPU
 
-![inline](multi_core.gif)
+![inline](image/multi_core.gif)
 
 ---
 
@@ -68,13 +68,13 @@ __0.8µs__ per message
 # Fault-tolerant
 ## * Let it __crash__
 
-![inline](blow.png)
+![inline](image/blow.png)
 
 ---
 
 ### Update __on the fly__, literally.
 
-![inline](drone.jpeg)
+![inline](image/drone.jpeg)
 
 ---
 
@@ -117,7 +117,7 @@ x = 1
 ---
 
 ## Mathmatical function
-![inline](mathfn.png)
+![inline](image/mathfn.png)
 
 ---
 
@@ -185,7 +185,7 @@ html =
 ---
 
 ## Map, Filter and Reduce
-![inline](map_reduce_filter.png)
+![inline](image/map_reduce_filter.png)
 
 ---
 
@@ -238,18 +238,18 @@ end
 ---
 
 ### doc part
-![inline](doc.png)
+![inline](image/doc.png)
 
 ---
 
 ### test part
 
-![inline](doctest.png)
+![inline](image/doctest.png)
 
 ---
 
 ## Trinity
-![inline](trinity.jpg)
+![inline](image/trinity.jpg)
 
 ---
 
