@@ -1,4 +1,4 @@
-theme: Merriweather, 8
+theme: Merriweather2, 1
 
 ![fit](image/ruby-elixir-conf.png)
 
