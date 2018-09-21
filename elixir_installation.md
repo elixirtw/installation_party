@@ -11,14 +11,10 @@ https://www.facebook.com/groups/elixir.tw/
 https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/
 
 
-
 ---
 
 ## [fit] Elixir installation party
-
----
-
-[http://bit.do/elixir_install](http://bit.do/elixir_install)
+### [http://bit.do/elixir_install](http://bit.do/elixir_install)
 
 ---
 
@@ -250,6 +246,13 @@ end
 
 ## Trinity
 ![inline](image/trinity.jpg)
+
+---
+
+
+# 3. Phoenix
+TODO: mickey
+
 
 ---
 
